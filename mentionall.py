@@ -40,9 +40,9 @@ async def start(event):
                          Button.url('➕ BENİ GRUBA EKLE ➕ ', 'http://t.me/KaptanTaggerBot?startgroup=a')
                       ],
                       [
-                         Button.url('📣 Grubumuz', 'https://t.me/BestClanGlobal'),
-                         Button.url('👮Developer', 'https://t.me/kaptandcbot'),
-                         Button.url('✨Resmi Kanal', 'https://t.me/BestClanOfficial'),
+                         Button.url('📣 Grubumuz', 'https://t.me/medikalsohbettr'),
+                         Button.url('👮Developer', 'https://t.me/parliamenttr'),
+                         Button.url('✨Resmi Kanal', 'https://t.me/medikalsohbettr'),
                       ]
                     ),
                     link_preview=False
@@ -56,9 +56,9 @@ async def help(event):
                          Button.url('➕ BENİ GRUBA EKLE ➕', 'http://t.me/KaptanTaggerBot?startgroup=a')
                       ],
                       [
-                         Button.url('📣 Grubumuz', 'https://t.me/BestClanGlobal'),
-                         Button.url('👮Developer', 'https://t.me/kaptandcbot'),
-                         Button.url('✨Resmi Kanal', 'https://t.me/BestClanOfficial'),
+                         Button.url('📣 Grubumuz', 'https://t.me/medikalsohbettr'),
+                         Button.url('👮Developer', 'https://t.me/parliamenttr'),
+                         Button.url('✨Resmi Kanal', 'https://t.me/medikalsohbettr'),
                       ]
                     ),
                     link_preview=False
